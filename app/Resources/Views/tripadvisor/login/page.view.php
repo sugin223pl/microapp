@@ -42,7 +42,7 @@
                             </a>.
                         </div>
                     </div>
-                    <div class="trips-states-LoggedOutControlled__section_two--yicNl trips-states-LoggedOutControlled__page_image--2LWby trips-states-LoggedOutControlled__heart--1ldpO" style="background: transparent url(https://static.tacdn.com/img2/t4b/owners_redesign/marketing/image2_v2.png) no-repeat 50%/cover;"></div>
+                    <div class="trips-states-LoggedOutControlled__section_two--yicNl trips-states-LoggedOutControlled__page_image--2LWby trips-states-LoggedOutControlled__heart--1ldpO" style="background: transparent url('<?=assets('/img2/t4b/owners_redesign/marketing/image2_v2.png', $home->app->cdn)?>') no-repeat 50%/cover;"></div>
                 </div>
             </div>
         </div>
