@@ -10,6 +10,7 @@ app/storage/
 public/storage
 public/hot
 storage/*.key
+app/Db/data/*.json
 .env
 Homestead.yaml
 Homestead.json
